@@ -24,7 +24,14 @@
     "type": "git",
     "url": "https://github.com/jeswr/promisify-event-emitter"
   },
-  "keywords": [],
+  "keywords": [
+    "promise",
+    "eventemitter",
+    "promisify",
+    "event",
+    "emitter",
+    "async"
+  ],
   "author": "Jesse Wright <jesse.wright@anu.edu.au>",
   "license": "MIT",
   "bugs": {
