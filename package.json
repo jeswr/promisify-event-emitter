@@ -1,5 +1,5 @@
 {
-  "name": "@jeswr/promisify-event-emitter",
+  "name": "event-emitter-promisify",
   "version": "0.0.0-development",
   "description": "Utility to resolve EventEmitters as a promise",
   "main": "dist/index.js",
