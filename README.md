@@ -1,5 +1,6 @@
 # promisify-eventemitter
-Utility to resolve EventEmitters as a promise 
+Utility to resolve EventEmitters as a promise
+
 [![GitHub license](https://img.shields.io/github/license/jeswr/promisify-event-emitter.svg)](https://github.com/jeswr/promisify-event-emitter/blob/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/promisify-eventemitter.svg)](https://www.npmjs.com/package/promisify-eventemitter)
 [![build](https://img.shields.io/github/workflow/status/jeswr/useState/Node.js%20CI)](https://github.com/jeswr/promisify-event-emitter/tree/main/)
