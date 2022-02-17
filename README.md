@@ -1,4 +1,4 @@
-# promisify-event-emitter
+# event-emitter-promisify
 Utility to resolve EventEmitters as a promise
 
 [![GitHub license](https://img.shields.io/github/license/jeswr/promisify-event-emitter.svg)](https://github.com/jeswr/promisify-event-emitter/blob/master/LICENSE)
